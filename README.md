@@ -1,2 +1,2 @@
 # DSCDataScience
-Sebuah percobaan dengan menerapkan materi aplikasi cari jodoh yang di contoh video
+Menganalisis risiko terpapar COVID dari data kegiatan sehari-hari
