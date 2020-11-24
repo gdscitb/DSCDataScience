@@ -1,0 +1,20 @@
+Tugas membuat analisis Data menggunakan Jupyter Notebook (Python)
+
+Spesifikasi tugas:
+1. Program memaparkan analisis data berupa tabel atau grafik, dan penjelasan lisan dari dataset terkait.
+2. Dataset yang akan digunakan untuk analisis dibebaskan. Jika menggunakan dataset dari sumber lain, cantumkan juga sumber dataset tersebut.
+3. Dataset harus dibersihkan terlebih dahulu sebelum melakukan analisis. Beri penjelasan lisan mengenai analisis yang dilakukan menggunakan markdown.
+4. Notebook tersebut harus memuat:
+	a. Nama lengkap, NIM, dan asal universitas
+	b. Tanggal mulai pengerjaan tugas
+	c. Sumber dataset (jika menggunakan dataset TakeMeOut, maka tulis saja TakeMeOut)
+	d. Tahapan analisis data misalnya "Data Observation", kemudian "Data Cleaning", dst
+	e. Statistik dasar data (min, max, avg, dst) dan analisis dasar dari Youtube https://youtu.be/8J1tGYEvf68
+	f. Insight baru mengenai data tersebut berdasarkan eksplorasi sendiri (tidak ada format, dibebaskan) minimal 2. Ini misalnya "A memiliki korelasi positif dengan B", dst
+5. Penggunaan library dibebaskan.
+
+Prosedur pengerjaan:
+1. Tugas dikerjakan secara individu
+2. Tugas ini dikumpulkan paling lambat hari sabtu 15 November 2020 pukul 23.59 WIB dengan mengajukan pull request pada repo github DSC https://github.com/gdscitb/DSCDataScience
+3. File submisi berisikan 1 notebook .ipynb dan 1 file dataset .csv yang terpakai
+3. Dilarang keras menyalin program dari sumber lain (buku, internet, program kakak tingkat, program kelompok lain)
